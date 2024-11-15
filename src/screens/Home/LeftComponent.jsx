@@ -9,7 +9,7 @@ const StyledLeftComponent = styled.div`
     left: 0;
     width: 40%;
     height: 100vh;
-    background-color: #2d250d;
+    background-color:#314f8e;
 
     display: flex;
     justify-content: center;
