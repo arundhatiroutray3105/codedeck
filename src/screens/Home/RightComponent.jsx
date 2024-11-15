@@ -160,7 +160,7 @@ const RightComponent = () => {
                     folderId: folderId,
                     cardId: "",
                   }
-                })}><span>+</span> New Directory</AddButton>
+                })}><span>+</span> New File</AddButton>
               </FolderIcons>
             </Header>
 
